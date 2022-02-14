@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+**My name is Nopasorn Kowathanakul** and I am a data scientist with a background in mechanical engineering and a recent graduate of Flatiron Schhol.
 
 <!--
 **knotmirai/knotmirai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
