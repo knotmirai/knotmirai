@@ -1,18 +1,26 @@
 ## Hi there 👋
 
-**My name is Nopasorn Kowathanakul** and I am a data scientist with a background in mechanical engineering and a recent graduate of Flatiron Schhol.
+**My name is Nopasorn Kowathanakul** and I am a data scientist with a background in mechanical engineering and a recent graduate of Flatiron School. I started learning and became data scientist because I am passionate about driving this world by data. I want to create innovation and impact in society by data-driven.
 
-<!--
-**knotmirai/knotmirai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm up to:
 
-Here are some ideas to get you started:
+- 🔭 I am currently working as R&D Engineer. 
+- 👀 I am looking for data science career opportunites.
+- 👯 I am open to collaborate on data and machine learning projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+<a href="https://github.com/knotmirai" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href= 'https://www.linkedin.com/in/nopasorn-kowathanakul/' rel="nofollow">
+  <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:k.nopasorn@gmail" rel="nofollow">
+  <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+\
+[![Years Badge](https://badges.pufler.dev/years/knotmirai)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/knotmirai/knotmirai)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/knotmirai)](https://badges.pufler.dev)
