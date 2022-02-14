@@ -10,14 +10,14 @@ My name is **Nopasorn Kowathanakul** and I am a data scientist with a background
 
 ### Connect with me:
 
-<a href="https://github.com/knotmirai" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href= 'https://www.linkedin.com/in/nopasorn-kowathanakul/' rel="nofollow">
-  <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://knotmirai.com/en/" rel="nofollow">
+  <img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 <a href="mailto:k.nopasorn@gmail" rel="nofollow">
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href= "https://www.linkedin.com/in/nopasorn-kowathanakul/" rel="nofollow">
+  <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 \
