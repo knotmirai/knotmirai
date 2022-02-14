@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**My name is Nopasorn Kowathanakul** and I am a data scientist with a background in mechanical engineering and a recent graduate of Flatiron School. I started learning and became a data scientist because I am passionate about driving this world by data. I want to create innovation and impact in society by data-driven.
+My name is **Nopasorn Kowathanakul** and I am a data scientist with a background in mechanical engineering and a recent graduate of Flatiron School. I started learning and became a data scientist because I am passionate about driving this world by data. I want to create innovation and impact in society by data-driven.
 
 ### What I'm up to:
 
